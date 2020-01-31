@@ -1,6 +1,6 @@
 # Laravel Datatables with Custom Multi-Line Cells
 
-Repository for this article: [Laravel AJAX Datatables: Cells with Multiple Rows and Images](https://quickadminpanel.com/blog/laravel-ajax-datatables-cells-with-multiple-rows-and-images)
+Repository for this article: [Laravel AJAX Datatables: Cells with Multiple Rows and Images](https://quickadminpanel.com/blog/laravel-ajax-datatables-multi-rows-cells-with-images/)
 
 - - - - -
 
